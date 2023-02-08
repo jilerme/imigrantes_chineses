@@ -2,6 +2,9 @@ Repositório com os dados e scripts utilizados para a confecção da dissertaç�
 "Migração Laboral de Chineses para o Brasil: um retrato do mercado formal de trabalho da década de 2010"
 para a obtenção do título de mestre em direito das migrações transnacionais pela Universidade do Vale do Itajaí e Università degli Studi di Perugia.
 
+Notas:
+Parte dos gráficos produzidos pelo arquivo "graficos_dissertacao.R" forma finalizados no Adobbe Illustrator, sem alterar as informações contidas no mesmo.
+
 Links para download da base de dados utilizada no trabalho:
 
 RAIS_CTPS_ESTOQUE_2020.zip
