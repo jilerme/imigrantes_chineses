@@ -3,7 +3,7 @@ Repositório com os dados e scripts utilizados para a confecção da dissertaç�
 para a obtenção do título de mestre em direito das migrações transnacionais pela Universidade do Vale do Itajaí e Università degli Studi di Perugia.
 
 Notas:
-Parte dos gráficos produzidos pelo arquivo "graficos_dissertacao.R" forma finalizados no Adobbe Illustrator, sem alterar as informações contidas no mesmo.
+1- Parte dos gráficos produzidos pelo arquivo "graficos_dissertacao.R" forma finalizados no Adobbe Illustrator, sem alterar as informações contidas no mesmo.
 
 Links para download da base de dados utilizada no trabalho:
 
